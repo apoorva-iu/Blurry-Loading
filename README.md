@@ -1,4 +1,4 @@
-# Intern1 — Static Web Project (Blurry Loading)
+# Blurry Loading
 
 A small static frontend project built using HTML, CSS, and JavaScript.  
 This project demonstrates a **blurry loading effect** and serves as a simple demo or starter for frontend UI experiments.
